@@ -36,9 +36,9 @@ Can't start my  GitHub `</>` profile without that cliché.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
 </p>
 
+---
 
-
-### 📊 Stats
+### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvshankar&layout=compact&theme=tokyonight)
 
