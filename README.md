@@ -11,7 +11,7 @@ Can't start my  GitHub `</>` profile without that cliché.
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 #### Languages and Tools
 <p>
