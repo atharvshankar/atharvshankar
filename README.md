@@ -13,7 +13,6 @@ Can't start my  GitHub `</>` profile without that cliché.
 
 ### Languages & Tools
 
-#### Languages and Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
