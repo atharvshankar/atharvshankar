@@ -38,6 +38,9 @@ Can't start my  GitHub `</>` profile without that cliché.
 
 ---
 
+
+
+<!--
 ### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvshankar&layout=compact&theme=tokyonight)
@@ -46,7 +49,7 @@ Can't start my  GitHub `</>` profile without that cliché.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=atharvshankar&theme=algolia&margin-w=10&margin-h=10&no-bg=true&no-frame=true&title=MultiLanguage,Commits,Experience,Repositories)
 
-
+-->
 
 <!--
 **atharvshankar/atharvshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
